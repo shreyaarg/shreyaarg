@@ -4,7 +4,8 @@
 - 👀 I’m interested in coding projects.
 - 🌱 I’m currently learning data structures.
 - 💞️ I’m looking to collaborate on projetcs with c and java.
-- 📫 reach me out for any help related to above mentioned areas of interest                                  
+- 📫 reach me out for any help related to above mentioned areas of interest   
+- my leetcode profile-https://leetcode.com/_geekgarg/                               
 
 <!---
 shreyaarg/shreyaarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
